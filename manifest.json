@@ -1,0 +1,14 @@
+{
+  "packageVersion": "26.930.3930.0",
+  "appVersion": "26.930.31730",
+  "modVersion": "1.2.0",
+  "asarHeaderHash": "fb9c9f69782fe51e94ea1946f8604daf520bbc3bef5bc19086be79e2cce096c9",
+  "files": {
+    ".vite/build/early-bootstrap.js": "3dd49a6cc26733869cbaca4a43e34536bfbb8247bf662ec5a5f162ee19ab5900",
+    ".vite/build/preload.js": "a3e622f8d80a83e58fb3cfcc640fa7e14e6461cccdae9ef7d7b0c821dde256b7",
+    "webview/index.html": "6334776189ba261b58d3053203eaab44b26b8efc9ccdba0f56cb7a28ba992266",
+    "webview/assets/app-primary-bb5c3be1c98a.js": "4a41ed7765014664d03d0fd012da7dc2c899cb9fa24cd02ce88cc01c3b37f788",
+    "webview/assets/app-shared-2d992d47c83d.js": "5e3a36d643393af861d2009584f64289f2247928e793f1985fe12cfec803a40b",
+    "webview/assets/queued-message-list-c3b80269114f.js": "19358f38a08b5a2e90abc4d64ccf0374b90c72a3ac772fe2f3f4da1c20d254ae"
+  }
+}
